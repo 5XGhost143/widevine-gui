@@ -19,6 +19,11 @@ $ python main.py
 **WVD File**
 **License Fetch**
 
+# **Open Source Projects used:**
+
+**->** *https://github.com/devine-dl/pywidevine*
+**->** *https://github.com/psf/requests*
+
 
 # **Questions?**
 
