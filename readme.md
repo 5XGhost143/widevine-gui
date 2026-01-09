@@ -1,12 +1,10 @@
 # Widevine GUI
 
+**Widevine GUI is a simple graphical tool designed to fetch licenses from Widevine-protected content.**
+
 # **Legal Disclaimer**
 
 **This project is intended for educational and research purposes only.**
-
-# **Overview**
-
-**Widevine GUI is a simple graphical tool designed to fetch licenses from Widevine-protected content.**
 
 # **Setup**
 
