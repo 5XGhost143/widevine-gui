@@ -1,1 +1,1 @@
-python -m nuitka --onefile --windows-console-mode=disable main.py
+python -m nuitka --onefile --windows-console-mode=disable --enable-plugin=pyqt6 main.py

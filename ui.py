@@ -91,7 +91,7 @@ class WidevineUI(QMainWindow):
                 border: 2px solid #58a6ff;
             }
         """)
-        self.fetch_input.setPlaceholderText('await fetch("https://example.com/license", {\n    "headers": {\n        "x-auth-token": "...",\n        "x-device-id": "...",\n        ...\n    },\n    "body": "...",\n    "method": "POST"\n});')
+        self.fetch_input.setPlaceholderText('await fetch("https://drm.examplesite.org/...");');
         input_layout.addWidget(self.fetch_input)
         
         self.extract_btn = self.create_button("Extract L3 Decryption Keys", self.extract_keys)
