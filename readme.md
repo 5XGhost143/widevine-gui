@@ -28,4 +28,4 @@ $ python main.py
 
 # **Questions?**
 
-**If you have any code related questions just open up an Issue on GitHub PLEASE I will not show u how to obtain the PSSH or WVD you have to make your own research about that**
+**If you have any code related questions just open up an Issue on GitHub PLEASE I will not show u how to obtain the PSSH and License Fetch or WVD you have to make your own research about that**
