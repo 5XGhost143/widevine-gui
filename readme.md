@@ -6,6 +6,10 @@
 
 **This project is intended for educational and research purposes only.**
 
+# **Are you Google?**
+
+**If you are from the Google DMCA Team feel free to reach me at: red99baron@t-online.de**
+
 # **Setup**
 
 ```
