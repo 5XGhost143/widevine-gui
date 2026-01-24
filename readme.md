@@ -8,7 +8,7 @@
 
 # **Are you Google?**
 
-**If you are from the Google DMCA Team feel free to reach me at: red99baron@t-online.de**
+**If you are from the Google DMCA team, feel free to contact me at: red99baron@t-online.de**
 
 # **Setup**
 
