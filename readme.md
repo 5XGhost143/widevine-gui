@@ -13,8 +13,8 @@
 # **Setup**
 
 ```
-$ pip install -r requirements.txt
-$ python main.py
+C:\Users\Ghost143> pip install -r requirements.txt
+C:\Users\Ghost143> python main.py
 ``` 
 
 # **Requirements**
